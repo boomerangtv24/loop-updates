@@ -1,0 +1,21 @@
+name: Publish update
+on:
+  push:
+    branches: [main]
+    paths: ["releases/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create a release for the newest version
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          v=$(ls releases | grep -E '^[0-9]+$' | sort -n | tail -1)
+          if gh release view "v$v" >/dev/null 2>&1; then echo "v$v already published"; exit 0; fi
+          gh release create "v$v" "releases/$v/manifest.json" "releases/$v/app-$v.tar.gz" \
+            --title "Boomerang Loop $v" --notes "Automatic update for the Boomerang Loop desktop app." --latest
