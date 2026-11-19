@@ -1,0 +1,93 @@
+{
+  "flow": {
+    "category": "Productivity",
+    "he": {
+      "title": "בומרנג פלו: חיבור אפליקציות",
+      "short": "מחברים אפליקציות בלי קוד: לידים מפייסבוק, טיקטוק וגוגל ישר לוואטסאפ ולשיטס",
+      "full": "בומרנג פלו מחבר בין האפליקציות של העסק בלי קוד ובלי מתכנת.\n\n• ליד חדש מפייסבוק, אינסטגרם, טיקטוק או גוגל? נשלחת הודעת וואטסאפ, נוצרת שורה ב־Google Sheets ומשימה לנציג.\n• תור ביומן, הודעה בטלגרם, עדכון במאנדיי, Webhook ועוד.\n• מרלו, העוזר החכם, בונה את החיבור בשבילכם: כותבים מה רוצים במשפט.\n\n3 חודשים ראשונים חינם, בלי כרטיס אשראי.\nאותו חשבון כמו בבומרנג לופ: מי שיש לו לופ נכנס ישר, והכל מסתנכרן."
+    },
+    "en": {
+      "title": "Boomerang Flow: App Automation",
+      "short": "Connect your apps with no code: new leads to WhatsApp, Sheets and your team",
+      "full": "Boomerang Flow connects your business apps with no code.\n\n• New lead from Facebook, Instagram, TikTok or Google? Send a WhatsApp, add a Google Sheets row and a task for your team.\n• Calendar, Telegram, Monday, webhooks and more.\n• Marlo, the AI helper, builds the automation for you from one sentence.\n\nFirst 3 months free, no card.\nSame account as Boomerang Loop: everything stays in sync."
+    }
+  },
+  "clock": {
+    "category": "Business",
+    "he": {
+      "title": "לופ שעון נוכחות לעובדים",
+      "short": "העובדים מחתימים כניסה ויציאה מהטלפון, ואתם מקבלים דוח שעות ושעות נוספות",
+      "full": "שעון נוכחות פשוט לעסק קטן.\n\n• כל עובד מקבל קישור בוואטסאפ ומחתים כניסה ויציאה מהטלפון, בלי להתקין כלום.\n• דוח שעות חודשי, שעות נוספות 125% ו־150% לפי החוק, הפסקות וחופשות.\n• ייצוא לאקסל ולרואה החשבון, ומילוי אוטומטי לתלוש השכר בלופ.\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון, ובלחיצה פותחים גם חשבוניות, לקוחות ושכר."
+    },
+    "en": {
+      "title": "Loop Time Clock for Staff",
+      "short": "Staff clock in and out from their phone. You get hours and overtime reports.",
+      "full": "A simple time clock for small businesses.\n\n• Every employee gets a link and clocks in and out from their phone. Nothing to install.\n• Monthly hours, overtime, breaks and holidays.\n• Export to Excel or your accountant.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, and invoices, customers and more are one tap away."
+    }
+  },
+  "book": {
+    "category": "Business",
+    "he": {
+      "title": "לופ זימון תורים",
+      "short": "קישור שבו הלקוחות קובעים תור לבד, עם תזכורת SMS יום לפני",
+      "full": "זימון תורים לעסק, בלי טלפונים הלוך ושוב.\n\n• קישור אחד ששולחים ללקוחות או שמים באינסטגרם: הם בוחרים שירות ושעה פנויה.\n• תזכורת SMS יום לפני, וביטול או הזזה בקישור.\n• סנכרון עם יומן גוגל או אאוטלוק, שעות פעילות, הפסקות וכמה עובדים.\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון ואותם לקוחות."
+    },
+    "en": {
+      "title": "Loop Bookings: Appointments",
+      "short": "A link where customers book themselves, with a reminder the day before",
+      "full": "Online booking for your business.\n\n• One link to share or put on Instagram: customers pick a service and a free time.\n• Reminder the day before; cancel or move from the link.\n• Syncs with Google Calendar or Outlook, opening hours, breaks and staff.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, same customers."
+    }
+  },
+  "missed": {
+    "category": "Communication",
+    "he": {
+      "title": "נועה: עונה כשלא עונים",
+      "short": "שיחה שלא עניתם עוברת לנועה: היא עונה בשם העסק, רושמת ליד ושולחת סיכום",
+      "full": "אף לקוח לא הולך לאיבוד כי לא עניתם.\n\n• שיחה שלא נענתה בנייד או במרכזייה עוברת לנועה, מזכירה קולית חכמה.\n• היא עונה בשם העסק בקול טבעי, שואלת מה צריך, קובעת תור ורושמת ליד.\n• אתם מקבלים סיכום בוואטסאפ מיד בסוף השיחה.\n• הגדרה בלחיצה אחת: קוד העברת שיחה לנייד, או מדריך למרכזייה.\n\n30 יום חינם.\nחלק מבומרנג לופ: הלידים נכנסים לאותו חשבון."
+    },
+    "en": {
+      "title": "Noa: Missed Call Answering",
+      "short": "Calls you miss go to Noa: she answers for your business and texts you a summary",
+      "full": "Never lose a customer to a missed call.\n\n• Calls you don't answer go to Noa, an AI receptionist.\n• She answers in your business's name, asks what's needed, books and takes the lead.\n• You get a summary right after the call.\n• One-tap setup with call forwarding.\n\n30 days free.\nPart of Boomerang Loop: leads land in the same account."
+    }
+  },
+  "quotes": {
+    "category": "Finance",
+    "he": {
+      "title": "לופ הצעות מחיר וחשבוניות",
+      "short": "הצעת מחיר יפה מהטלפון, הלקוח מאשר ומשלם בקישור, ומשם חשבונית",
+      "full": "הצעות מחיר שנסגרות מהר.\n\n• הצעת מחיר מעוצבת עם הלוגו שלכם, מהטלפון או מהמחשב, מתוך המחירון.\n• הלקוח מקבל קישור, מאשר ומשלם מהטלפון.\n• מהצעה מאושרת: חשבונית וקבלה בלחיצה (בישראל: חשבוניות נפתחות עם אישור רשות המסים, בתהליך).\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון, אותם לקוחות."
+    },
+    "en": {
+      "title": "Loop Quotes & Invoices",
+      "short": "A neat quote from your phone. The customer approves from a link, then invoice.",
+      "full": "Quotes that close fast.\n\n• Branded quotes with your logo, from your price list, on phone or computer.\n• The customer gets a link and approves from their phone.\n• Turn an approved quote into an invoice in one tap.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, same customers."
+    }
+  },
+  "wms": {
+    "category": "Productivity",
+    "he": {
+      "title": "מחסן חכם: ניהול מחסן ומלאי",
+      "short": "מפת מחסן, ליקוט במסלול קצר, סריקת ברקודים מהטלפון וספירות מלאי",
+      "full": "ניהול מחסן מהטלפון.\n\n• מפת מחסן: איפה כל מוצר, באיזה מדף ותא.\n• ליקוט הזמנות במסלול הקצר ביותר, וסריקת ברקודים במצלמת הטלפון.\n• ספירות מלאי, התראות על חוסרים, תוויות להדפסה.\n• חיישנים (טמפרטורה, לחות, דלת, מים), ייעוץ AI, API וחיבור לפריוריטי.\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון ואותו מלאי."
+    },
+    "en": {
+      "title": "Smart Warehouse & Inventory",
+      "short": "Warehouse map, short picking routes, barcode scanning from your phone",
+      "full": "Run your warehouse from your phone.\n\n• Warehouse map: where every item is, shelf and bin.\n• Pick orders on the shortest route; scan barcodes with the phone camera.\n• Stock counts, low-stock alerts, printable labels.\n• Sensors, AI advice and an API.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, same stock."
+    }
+  },
+  "mkt": {
+    "category": "Art & Design",
+    "he": {
+      "title": "לופ שרשרת שיווק: מודעות AI",
+      "short": "מודעה מוכנה ממשפט אחד, לידים נכנסים לבד, דפי נחיתה ו־SEO להופיע בגוגל",
+      "full": "כל השיווק של העסק במקום אחד.\n\n• סטודיו מודעות AI: כותבים משפט ומקבלים פוסט, סטורי או באנר בצבעי המותג, ושולחים ישר למטא ולגוגל.\n• חיבורי פרסום: הוצאה, קליקים ולידים ממטא, גוגל ו־Search Console.\n• אוטומציות: ליד נכנס ומקבל הודעה בוואטסאפ, SMS או מייל.\n• דפי נחיתה מ־AI, פיקסלים בלחיצה ו־SEO כדי להופיע בגוגל.\n\n30 יום חינם.\nחלק מבומרנג לופ: הלידים נכנסים לאותו חשבון."
+    },
+    "en": {
+      "title": "Loop Marketing: AI Ads & SEO",
+      "short": "A ready ad from one sentence, leads flowing in, landing pages and SEO",
+      "full": "All your marketing in one place.\n\n• AI ad studio: one sentence becomes a post, story or banner in your brand colors, sent straight to Meta and Google.\n• Ad connections: spend, clicks and leads from Meta, Google and Search Console.\n• Automations: every new lead gets a WhatsApp, SMS or email.\n• AI landing pages, one-tap pixels and SEO.\n\n30 days free.\nPart of Boomerang Loop: leads land in the same account."
+    }
+  }
+}
