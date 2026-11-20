@@ -89,5 +89,34 @@
       "short": "A ready ad from one sentence, leads flowing in, landing pages and SEO",
       "full": "All your marketing in one place.\n\n• AI ad studio: one sentence becomes a post, story or banner in your brand colors, sent straight to Meta and Google.\n• Ad connections: spend, clicks and leads from Meta, Google and Search Console.\n• Automations: every new lead gets a WhatsApp, SMS or email.\n• AI landing pages, one-tap pixels and SEO.\n\n30 days free.\nPart of Boomerang Loop: leads land in the same account."
     }
+  },
+  "law": {
+    "category": "Business",
+    "he": {
+      "title": "לופ לעורכי דין: ניהול תיקים",
+      "short": "תיקים, מועדי הגשה עם תזכורות, שעות לחיוב וחתימת לקוח מהטלפון",
+      "full": "ניהול משרד עורכי דין פשוט, מהטלפון ומהמחשב.\n\n• תיקים ולקוחות במקום אחד, עם מסמכים לכל תיק.\n• דיונים ומועדי הגשה עם מחשבון ימים ותזכורות, כדי ששום מועד לא יתפספס.\n• שעות לחיוב עם שעון עצר, ודוח שעות ללקוח.\n• בדיקת ניגוד עניינים לפני פתיחת תיק.\n• קישור ללקוח לחתימה על ייפוי כוח והסכם שכר טרחה מהטלפון.\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון, ובלחיצה פותחים גם חשבוניות, לקוחות ועוד."
+    },
+    "en": {
+      "title": "Loop for Lawyers: Case Manager",
+      "short": "Cases, filing deadlines with reminders, billable hours and client e-signing",
+      "full": "Simple practice management for law firms, on your phone and computer.\n\n• Cases and clients in one place, with documents for each case.\n• Hearings and filing deadlines with a day calculator and reminders, so nothing is missed.\n• Billable hours with a stopwatch, and an hours report per client.\n• Conflict-of-interest check before opening a case.\n• A link for the client to sign the power of attorney and fee agreement from their phone.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, and invoices, customers and more are one tap away."
+    }
+  },
+  "insure": {
+    "category": "Finance",
+    "countries": [
+      "IL"
+    ],
+    "he": {
+      "title": "לופ לסוכני ביטוח",
+      "short": "תיק לקוח עם כל הפוליסות, ייבוא הר הביטוח, חידושים, תביעות ועמלות",
+      "full": "מערכת פשוטה לסוכן ביטוח, מהטלפון ומהמחשב.\n\n• תיק לקוח עם כל הפוליסות במקום אחד.\n• ייבוא דו\"ח הר הביטוח מאקסל, ובדיקת כפל ביטוחים ומה חסר ללקוח.\n• תזכורות לחידושים, מעקב תביעות ועמלות.\n• קישור ללקוח לחתימה על הרשאה מהטלפון.\n\n30 יום חינם, בלי כרטיס אשראי.\nחלק מבומרנג לופ: אותו חשבון, ובלחיצה פותחים גם חשבוניות, לקוחות ועוד."
+    },
+    "en": {
+      "title": "Loop for Insurance Agents",
+      "short": "Every client's policies, Har HaBituach import, renewals, claims and commission",
+      "full": "A simple system for insurance agents in Israel, on your phone and computer.\n\n• A client file with all their policies in one place.\n• Import the Har HaBituach report from Excel, and check for double cover and gaps.\n• Renewal reminders, claims tracking and commission.\n• A link for the client to sign an authorisation from their phone.\n\n30 days free, no card.\nPart of Boomerang Loop: same account, and invoices, customers and more are one tap away."
+    }
   }
 }
